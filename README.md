@@ -2,8 +2,7 @@
 # 📚 Study Sync  
 
 **Study Sync** is a web-based study platform designed to provide an interactive and visually engaging experience for students and learners. Built using **HTML and CSS**, it offers a clean, responsive interface to enhance collaboration and productivity. 
-![alt text](image.png) 
-![alt text](image-1.png)
+
 
 ## 🚀 Features  
 
